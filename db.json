@@ -105,7 +105,8 @@
       "sex": "M",
       "country": {
         "picture": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
-        "code": "SUI"
+        "code": "SUI",
+        "name": "Switzerland"
       },
       "picture": "https://data.latelier.co/training/tennis_stats/resources/Wawrinka.png",
       "data": {
@@ -114,6 +115,7 @@
         "weight": 81000,
         "height": 183,
         "age": 33,
+        "birthday": "28/03/1985",
         "last": [
           1,
           1,
