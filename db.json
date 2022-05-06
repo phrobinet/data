@@ -27,28 +27,43 @@
           1
         ]
       },
-      "title": {
-        "2021": [
-          "Wimbledon (Grass)",
-          "French Open (Clay)",
-          "Australian Open (Hard)"
-        ],
-        "2020": [
-          "Australian Open (Hard)"
-        ],
-        "2019": [
-          "Wimbledon (Grass)",
-          "Australian Open (Hard)"
-        ],
-        "2018": [
-          "Wimbledon (Grass)",
-          "US Open (Hard)"
-        ],
-        "2016": [
-          "French Open (Clay)",
-          "US Open (Hard)"
-        ]
-      }
+      "title": [
+        {
+          "year": 2021,
+          "items": [
+            "Wimbledon (Grass)",
+            "French Open (Clay)",
+            "Australian Open (Hard)"
+          ]
+        },
+        {
+          "year": 2020,
+          "items": [
+            "Australian Open (Hard)"
+          ]
+        },
+        {
+          "year": 2019,
+          "items": [
+            "Wimbledon (Grass)",
+            "Australian Open (Hard)"
+          ]
+        },
+        {
+          "year": 2018,
+          "items": [
+            "Wimbledon (Grass)",
+            "US Open (Hard)"
+          ]
+        },
+        {
+          "year": 2016,
+          "items": [
+            "French Open (Clay)",
+            "US Open (Hard)"
+          ]
+        }
+      ]
     },
     {
       "id": 95,
@@ -77,25 +92,26 @@
           1
         ]
       },
-      "title": {
-        "2008": [
-          "Wimbledon (Grass)"
-        ],
-        "2007": [
-          "Wimbledon (Grass)"
-        ],
-        "2005": [
-          "Wimbledon (Grass)"
-        ],
-        "2001": [
-          "Wimbledon (Grass)",
-          "US Open (Hard)"
-        ],
-        "2000": [
-          "Wimbledon (Grass)",
-          "US Open (Hard)"
-        ]
-      }
+      
+        "title": 
+          [
+            { "year": 2008,
+              "items": [ "Wimbledon (Grass)"]
+            },
+            { "year": 2007,
+              "items": [ "Wimbledon (Grass)"]
+            },
+            { "year": 2005,
+              "items": [ "Wimbledon (Grass)"]
+            },
+            { "year": 2001,
+              "items": [ "Wimbledon (Grass)", "US Open (Hard)"]
+            },
+            { "year": 2000,
+              "items": [ "Wimbledon (Grass)", "US Open (Hard)"]
+            }
+          ]
+      
     },
     {
       "id": 65,
@@ -105,8 +121,7 @@
       "sex": "M",
       "country": {
         "picture": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
-        "code": "SUI",
-        "name": "Switzerland"
+        "code": "SUI"
       },
       "picture": "https://data.latelier.co/training/tennis_stats/resources/Wawrinka.png",
       "data": {
@@ -115,7 +130,6 @@
         "weight": 81000,
         "height": 183,
         "age": 33,
-        "birthday": "28/03/1985",
         "last": [
           1,
           1,
@@ -124,17 +138,27 @@
           1
         ]
       },
-      "title": {
-        "2016": [
-          "US Open (Hard)"
-        ],
-        "2015": [
-          "French Open (Clay)"
-        ],
-        "2014": [
-          "Australian Open (Hard)"
-        ]
-      }
+      "title": [
+        {
+          "year": 2016,
+          "items": [
+            "US Open (Hard)"
+          ]
+        },
+        {
+          "year": 2015,
+          "items": [
+            "French Open (Clay)"
+          ]
+        },
+        {
+          "year": 2014,
+          "items": [
+            "Australian Open (Hard)"
+          ]
+        }
+      ]
+
     },
     {
       "id": 102,
@@ -163,26 +187,42 @@
           0
         ]
       },
-      "title": {
-        "2017": [
-          "Australian Open (Hard)"
-        ],
-        "2016": [
-          "Wimbledon (Grass)"
-        ],
-        "2015": [
-          "Wimbledon (Grass)",
-          "French Open (Clay)",
-          "Australian Open (Hard)"
-        ],
-        "2014": [
-          "US Open (Hard)"
-        ],
-        "2013": [
-          "French Open (Clay)",
-          "US Open (Hard)"
-        ]
-      }
+      "title": [
+        {
+          "year": 2017,
+          "items": [
+            "Australian Open (Hard)"
+          ]
+        },
+        {
+          "year": 2016,
+          "items": [
+            "Wimbledon (Grass)"
+          ]
+        },
+        {
+          "year": 2015,
+          "items": [
+            "Wimbledon (Grass)",
+            "French Open (Clay)",
+            "Australian Open (Hard)"
+          ]
+        }
+        ,
+        {
+          "year": 2014,
+          "items": [
+            "US Open (Hard)"
+          ]
+        },
+        {
+          "year": 2013,
+          "items": [
+            "French Open (Clay)",
+            "US Open (Hard)"
+          ]
+        }
+      ]
     },
     {
       "id": 17,
@@ -211,25 +251,40 @@
           1
         ]
       },
-      "title": {
-        "2022": [
-          "Australian Open (Hard)"
-        ],
-        "2020": [
-          "French Open (Clay)"
-        ],
-        "2019": [
-          "French Open (Clay)",
-          "US Open (Hard)"
-        ],
-        "2018": [
-          "French Open (Clay)"
-        ],
-        "2017": [
-          "French Open (Clay)",
-          "US Open (Hard)"
-        ]
-      }
+      "title": [
+        {
+          "year": 2022,
+          "items": [
+            "Australian Open (Hard)"
+          ]
+        },
+        {
+          "year": 2020,
+          "items": [
+            "French Open (Clay)"
+          ]
+        },
+        {
+          "year": 2019,
+          "items": [
+            "French Open (Clay)",
+            "US Open (Hard)"
+          ]
+        },
+        {
+          "year": 2018,
+          "items": [
+            "French Open (Clay)"
+          ]
+        },
+        {
+          "year": 2017,
+          "items": [
+            "French Open (Clay)",
+            "US Open (Hard)"
+          ]
+        }
+      ]
     }
   ]
 }
