@@ -121,7 +121,8 @@
       "sex": "M",
       "country": {
         "picture": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
-        "code": "SUI"
+        "code": "CHE",
+        "name": "Switzerland"
       },
       "picture": "https://data.latelier.co/training/tennis_stats/resources/Wawrinka.png",
       "data": {
